@@ -44,10 +44,10 @@ Resumen de los blogs de diferentes publicaciones sobre el examen **AWS Certified
 
 | ***Fecha de Publicación*** | ***Título / Enlace*** | ***Autor*** |
 | :---:         |     :---      |          :--- |
-| 2020/09 | [How I prepared for Google Associate Cloud Engineer (ACE) Exam](https://towardsdatascience.com/how-i-prepared-for-the-aws-machine-learning-speciality-certification-10834924d192) | [Raghav Dave](https://medium.com/@dave.raghav) |
-| 2020/07 | [From ALC to Google ACE](https://medium.com/towards-artificial-intelligence/how-i-got-the-aws-machine-learning-specialty-certification-a1142f1376cd) | [Mayank Vadsola](https://medium.com/@mayankvadsola1996) |
-| 2020/07 | [How I Passed the Google ACE](https://medium.com/@adam.dejans/my-path-to-passing-the-aws-machine-learning-certification-e8fc45ad7762) | [Adam DeJans](https://medium.com/@adam.dejans) |
-| 2020/06 | [How to plan and clear Google Cloud ACE Certificate](https://medium.com/@jitendra.bigtani/boost-your-career-with-aws-machine-learning-specialty-certification-a5d97fb1024f) | [Jitendra Bigtani](https://medium.com/@jitendra.bigtani) |
-| 2020/04 | [How to Ace the Certification](https://medium.com/xplore-ai/aws-machine-learning-specialty-certification-made-easy-fe72a7a3095a) | [Daniel S. Flamarich](https://medium.com/@danielsflamarich) |
-| 2020/04 | [Notes from my ACE — Section 2](https://towardsdatascience.com/aws-machine-learning-speciality-certification-in-a-month-1a5987599927) | [Dipika Baad](https://medium.com/@dipikabaad) |
-| 2019/09 | [Notes from my ACE — Section 1](https://medium.com/slalom-data-analytics/passing-the-aws-machine-learning-specialty-certification-35c05b0907f8) | [Jack Sandom](https://medium.com/@jack.sandom) |
+| 2020/09 | [How I prepared for the AWS Certified Machine Learning Specialty](https://towardsdatascience.com/how-i-prepared-for-the-aws-machine-learning-speciality-certification-10834924d192) | [Raghav Dave](https://medium.com/@dave.raghav) |
+| 2020/07 | [How I prepared for the AWS Certified Machine Learning Specialty](https://medium.com/towards-artificial-intelligence/how-i-got-the-aws-machine-learning-specialty-certification-a1142f1376cd) | [Mayank Vadsola](https://medium.com/@mayankvadsola1996) |
+| 2020/07 | [My Path to Passing the AWS Machine Learning Certification](https://medium.com/@adam.dejans/my-path-to-passing-the-aws-machine-learning-certification-e8fc45ad7762) | [Adam DeJans](https://medium.com/@adam.dejans) |
+| 2020/06 | [My Path to Passing the AWS Machine Learning Certification](https://medium.com/@jitendra.bigtani/boost-your-career-with-aws-machine-learning-specialty-certification-a5d97fb1024f) | [Jitendra Bigtani](https://medium.com/@jitendra.bigtani) |
+| 2020/04 | [5 steps to AWS Machine Learning Specialty Certification, Made Easy](https://medium.com/xplore-ai/aws-machine-learning-specialty-certification-made-easy-fe72a7a3095a) | [Daniel S. Flamarich](https://medium.com/@danielsflamarich) |
+| 2020/04 | AWS Machine Learning Speciality Certification in a month](https://towardsdatascience.com/aws-machine-learning-speciality-certification-in-a-month-1a5987599927) | [Dipika Baad](https://medium.com/@dipikabaad) |
+| 2019/09 | [Passing the AWS Machine Learning Specialty Certification](https://medium.com/slalom-data-analytics/passing-the-aws-machine-learning-specialty-certification-35c05b0907f8) | [Jack Sandom](https://medium.com/@jack.sandom) |
