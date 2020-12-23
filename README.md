@@ -71,3 +71,11 @@ Lista de los libros mas importates con sus respectivos autores y fechas de publi
 |2019 | [Migration Architecture for Revenue Management ](https://d1.awsstatic.com/architecture-diagrams/ArchitectureDiagrams/migration-arch-revenue-management-ra.pdf?trvld_mp1) |[Copyright © 2019 Amazon Web Services, Inc.](https://aws.amazon.com)  |
 |2019 | [Customer Engagement Using AI/ML for Airlines](https://d1.awsstatic.com/architecture-diagrams/ArchitectureDiagrams/customer_engagement_travel_ra.pdf?did=wp_card&trk=wp_card) |[Copyright © 2019 Amazon Web Services, Inc.](https://aws.amazon.com)  |
 |2019 | [AWS Industrial](https://d1.awsstatic.com/architecture-diagrams/ArchitectureDiagrams/iot-industrial-anomaly-detection-ra.pdf) |[Copyright © 2019 Amazon Web Services, Inc.](https://aws.amazon.com)  |
+### Videos Sesiones
+
+Videos publicados donde se describe y dan un resumen del examen **Associate Cloud Engineer (ACE)**.
+
+| ***Fecha de Publicación*** | ***Título / Enlace*** | ***Editor*** | ***Autor*** |
+| :---:         |     :---     |     :---       |          :--- |
+|2020/10 | [Preparing for Google Cloud ACE Exam](https://youtu.be/RbIbS0YMFs4) |  [Google Cloud](https://www.youtube.com/channel/UCTMRxtyHoE3LPcrl-kT4AQQ)| Parvez Mulla |
+|2020/02 | [The Certified Q&A - ACE Playlist](https://www.youtube.com/watch?v=MESzvFfGhN8&list=PLQMsfKRZZviRwqJwNmh1eAWnRMvlrk40x) | [AwesomeGCP](https://www.youtube.com/channel/UCIGDDqu5DzlaaC4XzXj_4-A)| Sathish VJ |
