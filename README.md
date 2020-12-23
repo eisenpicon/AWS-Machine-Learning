@@ -17,6 +17,7 @@ Tenemos una lista de 6 topicos importantes para el estudio del examen **AWS Cert
 - [Acerca el Examen ](#Acerca-el-Examen )
 - [Publicaciones](#Publicaciones)
 - [Libros](#Libros)
+- [Documentos técnicos de AWS](#Documentos-técnicos-de-AWS)
 - [Videos / Sesiones](#Videos-Sesiones)
 - [Capacitaciones en línea](#Capacitaciones-en-línea)
 - [Enlaces de Qwiklabs](#Enlaces-de-Qwiklabs)
@@ -71,6 +72,18 @@ Lista de los libros mas importates con sus respectivos autores y fechas de publi
 |2019 | [Migration Architecture for Revenue Management ](https://d1.awsstatic.com/architecture-diagrams/ArchitectureDiagrams/migration-arch-revenue-management-ra.pdf?trvld_mp1) |[Copyright © 2019 Amazon Web Services, Inc.](https://aws.amazon.com)  |
 |2019 | [Customer Engagement Using AI/ML for Airlines](https://d1.awsstatic.com/architecture-diagrams/ArchitectureDiagrams/customer_engagement_travel_ra.pdf?did=wp_card&trk=wp_card) |[Copyright © 2019 Amazon Web Services, Inc.](https://aws.amazon.com)  |
 |2019 | [AWS Industrial](https://d1.awsstatic.com/architecture-diagrams/ArchitectureDiagrams/iot-industrial-anomaly-detection-ra.pdf) |[Copyright © 2019 Amazon Web Services, Inc.](https://aws.amazon.com)  |
+
+### Documentos técnicos de AWS
+
+Amplíe su conocimientos técnicos del aprendizaje **AWS Certified Machine Learning – Specialty** con informes técnicos escritos por el equipo de AWS, analistas independientes y socios de AWS. .
+
+| ***Título / Enlace*** |
+| :---:         |
+[]() |
+[]() |
+[]() | 
+
+
 ### Videos Sesiones
 
 Videos publicados donde se describe y dan un resumen del examen **AWS Certified Machine Learning – Specialty**.
