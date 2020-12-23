@@ -137,7 +137,7 @@ Luego de realizar todos los pasos anteriores y te sientas listo es hora de [reg�
 
 Si tienes una o más certificaciones de AWS activas, encontrarás los beneficios de las certificaciones obtenidas. Tenga en cuenta que para canjear algunos beneficios se requiere acceso a sitios de terceros.
 
-Todos los beneficios no se pueden transferir y están destinados a ser utilizados únicamente por la persona que obtuvo el beneficio y por la cuenta de AWS Certification a la que se asignó originalmente el beneficio. <b style='color:red'> **Si AWS, a su entera discreción, determina que usó indebidamente o transfirió un beneficio, AWS puede invalidar el resultado del examen relacionado con el uso indebido o la transferencia y el beneficio no se restablecerá..**</b>.
+Todos los beneficios no se pueden transferir y están destinados a ser utilizados únicamente por la persona que obtuvo el beneficio y por la cuenta de AWS Certification a la que se asignó originalmente el beneficio. <b style='color:red'> Si AWS, a su entera discreción, determina que usó indebidamente o transfirió un beneficio, AWS puede invalidar el resultado del examen relacionado con el uso indebido o la transferencia y el beneficio no se restablecerá..</b>
 
 | ***Item*** | ***Descripcion*** | 
 | :---:         |     :---     | 
