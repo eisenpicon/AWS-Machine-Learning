@@ -143,4 +143,4 @@ Todos los beneficios no se pueden transferir y están destinados a ser utilizado
 |2| Voucher  de examen de práctica gratuita de AWS|
 |3| AWS Certification SME Program|
 |4| 50% de descuento en su próximo examen |
-|5| [Comunidad de LinkedIn global certificada por AWS](https://www.linkedin.com/groups/6814264/)] |
+|5| [Comunidad de LinkedIn global certificada por AWS](https://www.linkedin.com/groups/6814264/) |
