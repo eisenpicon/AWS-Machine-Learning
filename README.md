@@ -77,9 +77,9 @@ Videos publicados donde se describe y dan un resumen del examen **AWS Certified 
 
 | ***Fecha de Publicación*** | ***Título / Enlace*** | ***Editor*** | ***Autor*** |
 | :---:         |     :---     |     :---       |          :--- |
+|2020/12 | [How to pass AWS Machine Learning Specialty Exam](https://www.youtube.com/watch?v=xCjRe1yYtwQ) |  []()| [simpledataflow](https://www.youtube.com/channel/UCGl8SD6E9a8XUFWXw7yJ5WQ) |
+|2020/10 | [AWS Certified Machine Learning Specialt](https://www.youtube.com/watch?v=RRtU-HFTeuU) |  []()| [ELK Grafana](https://www.youtube.com/channel/UCCjSLtve97U9k-3hEsfWT2w) |
 |2020/05 | [I took the AWS Machine Learning Specialty Exam. And had a bit of a rant.](https://www.youtube.com/watch?v=rdkiQfMHr0U) | []() | [MarkoCloud](https://www.youtube.com/channel/UCUMqUcn5ii4OTWhXSOMOpsQ)| 
-|2020/10 | []() |  []()| []() |
-|2020/10 | []() |  []()| []() |
 |2020/10 | []() |  []()| []() |
 |2020/10 | []() |  []()| []() |
 |2020/10 | []() |  []()| []() |
