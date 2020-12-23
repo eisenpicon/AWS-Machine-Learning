@@ -88,15 +88,9 @@ Los cursos y capacitaciones de manera e-learning del contenido de **AWS Certifie
 
 | ***Site*** | ***Título / Enlace*** |***Tipo*** |***Duración*** |
 | :---:         |     :---      |:---      |:---      |
-| Coursera | [Architecting with Google Compute Engine](https://www.coursera.org/specializations/gcp-architecture) | Especialización | 3 meses |
-| Coursera | [Getting Started with Google Kubernetes Engine](https://www.coursera.org/learn/google-kubernetes-engine?) | Curso| 13 horas |
-| Coursera | [Preparing for the Google Cloud ACE Exam](https://www.coursera.org/learn/preparing-cloud-associate-cloud-engineer-exam) |Curso| 8 horas |
-| Coursera | [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals) |Curso| 12 horas |
-| Coursera | [Architecting with Google Cloud Platform Specialization](https://www.coursera.org/specializations/gcp-architecture) | Especialización | 3 meses |
-| Coursera | [Essential Google Cloud Infrastructure: Foundation](https://www.coursera.org/learn/gcp-infrastructure-foundation) |Curso| 8 horas |
-| Coursera | [Essential Google Cloud Infrastructure: Core Services](https://www.coursera.org/learn/gcp-infrastructure-core-services) |Curso| 9 horas |
-| Coursera | [Elastic Google Cloud Infrastructure: Scaling and Automation](https://www.coursera.org/learn/gcp-infrastructure-scaling-automation) |Curso| 9 horas |
-| Coursera | [Introduction to Cloud Identity](https://www.coursera.org/learn/cloud-identity) |Curso| 11 horas |
-| Udemy | [Google Cloud Platform ACE Bootcamp](https://www.udemy.com/course/google-cloud-platform-associate-cloud-engineer-bootcamp/) |Curso| 11 horas |
-| Udemy | [Google Cloud ACE](https://www.udemy.com/google-certified-associate-cloud-engineer/?couponCode=GCPFREELY) | Curso| 15 horas |
-| acloud.guru | [Google Certified ACE 2020](https://acloud.guru/learn/gcp-certified-associate-cloud-engineer)| Curso| 10 horas |
+| aws training | [Practical Data Science with Amazon SageMaker](https://www.aws.training/SessionSearch?pageNumber=1&courseId=40748) | Curso | 24 horas |
+| aws training | [The Machine Learning Pipeline on AWS](https://www.aws.training/SessionSearch?pageNumber=1&courseId=38910) | Curso| 32 horas |
+| aws training | [Process Model: CRISP-DM on the AWS Stack](https://www.aws.training/Details/eLearning?id=27200) | Curso | 1 hora |
+| aws training | [The Elements of Data Science](https://www.aws.training/Details/eLearning?id=26598) | Curso | 8 horas |
+| aws training | [Deep Learning on AWS](https://www.aws.training/SessionSearch?pageNumber=1&courseId=13854) | Curso | 24 horas |
+| aws training | [Machine Learning](https://aws.amazon.com/training/learn-about/machine-learning/) | Curso | - |
