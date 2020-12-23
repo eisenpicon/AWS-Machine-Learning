@@ -79,9 +79,10 @@ Amplíe su conocimientos técnicos del aprendizaje **AWS Certified Machine Learn
 
 | ***Título / Enlace*** |
 | :---:         |
-[]() |
-[]() |
-[]() | 
+|[]() |
+|[]() |
+|[]() | 
+|[]() | 
 
 
 ### Videos Sesiones
