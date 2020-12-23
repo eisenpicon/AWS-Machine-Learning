@@ -79,27 +79,27 @@ Amplíe su conocimientos técnicos del aprendizaje **AWS Certified Machine Learn
 
 | ***Fecha de Publicación*** | ***Título / Enlace*** | 
 | :---:         |     :---     | 
-| 2 |[Power Machine Learning at Scale](https://d1.awsstatic.com/whitepapers/aws-power-ml-at-scale.pdf) |
-| 3 |[ Managing Machine Learning Projects](https://d1.awsstatic.com/whitepapers/aws-managing-ml-projects.pdf) |
-|4|[Machine Learning Foundations: Evolution of ML and AI](https://d1.awsstatic.com/whitepapers/machine-learning-foundations.pdf) |
-|5|[ Augmented AI: The Power of Human and Machine](https://d1.awsstatic.com/whitepapers/augmented-ai-the-power-of-human-and-machine.pdf) | 
-|6|[ Machine Learning Lens - AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/machine-learning-lens/welcome.html) |
-|7|[Amazon CodeGuru](https://aws.amazon.com/codeguru/faqs/) |
-|8|[Amazon Comprehend](https://aws.amazon.com/comprehend/faqs/) |
-|9|[Amazon Comprehend Medical](https://aws.amazon.com/comprehend/faqs/#Amazon_Comprehend_Medical) |
-|10|[Amazon Forecast](https://aws.amazon.com/forecast/faqs/) |
-|11|[Amazon Fraud Detector ](https://aws.amazon.com/fraud-detector/faqs/) |
-|12|[Amazon Kendra](https://aws.amazon.com/kendra/faqs/) |
-|13|[Amazon Lex](https://aws.amazon.com/lex/faqs/) |
-|14|[Amazon Personalize](https://aws.amazon.com/personalize/faqs/) |
-|15|[Amazon Rekognition ](https://aws.amazon.com/rekognition/faqs/) |
-|16|[Amazon Textract](https://aws.amazon.com/textract/faqs/) |
-|17|[Amazon Transcribe](https://aws.amazon.com/transcribe/faqs/) |
-|18|[Amazon Translate ](https://aws.amazon.com/translate/faqs/) |
-|19|[Amazon SageMaker ](https://aws.amazon.com/sagemaker/faqs/) |
-|20|[Amazon SageMaker Ground Truth](https://aws.amazon.com/sagemaker/groundtruth/faqs/) |
-|21|[Amazon Augmented AI](https://aws.amazon.com/augmented-ai/faqs/) |
-|22|[AWS Deep Learning Containers](https://aws.amazon.com/machine-learning/containers/faqs/) |
+|1|[Power Machine Learning at Scale](https://d1.awsstatic.com/whitepapers/aws-power-ml-at-scale.pdf) |
+|2|[ Managing Machine Learning Projects](https://d1.awsstatic.com/whitepapers/aws-managing-ml-projects.pdf) |
+|3|[Machine Learning Foundations: Evolution of ML and AI](https://d1.awsstatic.com/whitepapers/machine-learning-foundations.pdf) |
+|4|[ Augmented AI: The Power of Human and Machine](https://d1.awsstatic.com/whitepapers/augmented-ai-the-power-of-human-and-machine.pdf) | 
+|5|[ Machine Learning Lens - AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/machine-learning-lens/welcome.html) |
+|6|[Amazon CodeGuru](https://aws.amazon.com/codeguru/faqs/) |
+|7|[Amazon Comprehend](https://aws.amazon.com/comprehend/faqs/) |
+|8|[Amazon Comprehend Medical](https://aws.amazon.com/comprehend/faqs/#Amazon_Comprehend_Medical) |
+|9|[Amazon Forecast](https://aws.amazon.com/forecast/faqs/) |
+|10|[Amazon Fraud Detector ](https://aws.amazon.com/fraud-detector/faqs/) |
+|11|[Amazon Kendra](https://aws.amazon.com/kendra/faqs/) |
+|12|[Amazon Lex](https://aws.amazon.com/lex/faqs/) |
+|13|[Amazon Personalize](https://aws.amazon.com/personalize/faqs/) |
+|14|[Amazon Rekognition ](https://aws.amazon.com/rekognition/faqs/) |
+|15|[Amazon Textract](https://aws.amazon.com/textract/faqs/) |
+|16|[Amazon Transcribe](https://aws.amazon.com/transcribe/faqs/) |
+|17|[Amazon Translate ](https://aws.amazon.com/translate/faqs/) |
+|18|[Amazon SageMaker ](https://aws.amazon.com/sagemaker/faqs/) |
+|19|[Amazon SageMaker Ground Truth](https://aws.amazon.com/sagemaker/groundtruth/faqs/) |
+|20|[Amazon Augmented AI](https://aws.amazon.com/augmented-ai/faqs/) |
+|21|[AWS Deep Learning Containers](https://aws.amazon.com/machine-learning/containers/faqs/) |
 
 
 
