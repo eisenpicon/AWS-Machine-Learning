@@ -8,7 +8,7 @@ Una lista seleccionada de recursos para aprender sobre la certificacion de AWS C
 
 # Contenido
 
-Tenemos una lista de 6 topicos importantes para el estudio del examen **Associate Cloud Engineer (ACE)**. Elija el que topico de su preferencia y nuestros enlaces de referencia le enviara directamente al área correcta.
+Tenemos una lista de 6 topicos importantes para el estudio del examen **AWS Certified Machine Learning – Specialty**. Elija el que topico de su preferencia y nuestros enlaces de referencia le enviara directamente al área correcta.
 
 - [Acerca el Examen ](#Acerca-el-Examen )
 - [Publicaciones](#Publicaciones)
@@ -20,7 +20,7 @@ Tenemos una lista de 6 topicos importantes para el estudio del examen **Associat
 
 
 ## Acerca el Examen 
-Contiene la descripcion general y resumida del examen de Certififacion **Associate Cloud Engineer (ACE)**
+Contiene la descripcion general y resumida del examen de Certififacion  [**AWS Certified Machine Learning – Specialty**](https://d1.awsstatic.com/training-and-certification/docs-ml/AWS-Certified-Machine-Learning-Specialty_Exam-Guide.pdf)
 <div align="center"> 
 
 |***CONTENIDO*** | ***DESCRIPCION***|
