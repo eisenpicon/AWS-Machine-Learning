@@ -108,7 +108,7 @@ Amplíe su conocimientos técnicos del aprendizaje **AWS Certified Machine Learn
 
 Videos publicados donde se describe y dan un resumen del examen **AWS Certified Machine Learning – Specialty**.
 
-| ***Fecha de Publicación*** | ***Título / Enlace*** | *** ***Autor*** |
+| ***Fecha de Publicación*** | ***Título / Enlace*** |  ***Autor*** |
 | :---:         |     :---     |          :--- |
 |2020/12 | [How to pass AWS Machine Learning Specialty Exam](https://www.youtube.com/watch?v=xCjRe1yYtwQ) | [simpledataflow](https://www.youtube.com/channel/UCGl8SD6E9a8XUFWXw7yJ5WQ) |
 |2020/09 | [AWS Certified Machine Learning Specialt](https://www.youtube.com/watch?v=RRtU-HFTeuU) | [ELK Grafana](https://www.youtube.com/channel/UCCjSLtve97U9k-3hEsfWT2w) |
