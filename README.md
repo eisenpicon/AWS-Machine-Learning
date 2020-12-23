@@ -13,7 +13,7 @@ Una lista seleccionada de recursos para aprender sobre la certificacion de [**AW
 
 # Contenido
 
-Tenemos una lista de 6 topicos importantes para el estudio del examen **AWS Certified Machine Learning – Specialty**. Elija el que topico de su preferencia y nuestros enlaces de referencia le enviara directamente al área correcta.
+Tenemos una lista de 8 topicos importantes para el estudio del examen **AWS Certified Machine Learning – Specialty**. Elija el que topico de su preferencia y nuestros enlaces de referencia le enviara directamente al área correcta.
 
 - [Acerca el Examen ](#Acerca-el-Examen )
 - [Publicaciones](#Publicaciones)
