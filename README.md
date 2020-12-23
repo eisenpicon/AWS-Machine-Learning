@@ -29,7 +29,7 @@ Contiene la descripcion general y resumida del examen de Certififacion **Associa
 | **Experiencia:** | Intermedio | 
 | **Duracion:** | 3 horas | 
 | **Costo de inscripción:** | 300 USD (adicional los impuestos cuando corresponda). Hay un descuento del 50% si si apruebas el examen para futuros examenes. | 
-| **Formato del examen:** | Opción múltiple y selección múltiple, tomada en persona en un centro de pruebas [ centro de evaluación cercana](https://www.kryteriononline.com/Locate-Test-Center), o en línea supervisado desde una ubicación remota. Consulta los  [requisitos](https://www.webassessor.com/wa.do?page=certInfo&branding=GOOGLECLOUD&tabs=13) del examen en línea . | 
+| **Formato del examen:** | Opción múltiple y selección múltiple, tomada en persona en un centro de pruebas [Pearson VUE](https://wsr.pearsonvue.com/testtaker/find/testcenter/AWS) o [PSI](https://awsavailability.psiexams.com/), o en línea supervisado desde una ubicación remota. Consulta los  [requisitos](https://home.pearsonvue.com/Clients/Amazon-Web-Services/Online-Proctored.aspx) del examen en línea . | 
 | **Experiencia recomendada:** | 1-2 años de experiencia en el desarrollo, la arquitectura o la ejecución de cargas de trabajo de aprendizaje profundo y aprendizaje automático en la nube de AWS. | 
 | **Examen de práctica oficial:** | examen de práctica: 40 USD | 
 </div>
