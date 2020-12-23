@@ -31,5 +31,5 @@ Contiene la descripcion general y resumida del examen de Certififacion **Associa
 | **Costo de inscripción:** | 300 USD (adicional los impuestos cuando corresponda). Hay un descuento del 50% si si apruebas el examen para futuros examenes. | 
 | **Formato del examen:** | Opción múltiple y selección múltiple, tomada en persona en un centro de pruebas [Pearson VUE](https://wsr.pearsonvue.com/testtaker/find/testcenter/AWS) o [PSI](https://awsavailability.psiexams.com/), o en línea supervisado desde una ubicación remota. Consulta los  [requisitos](https://home.pearsonvue.com/Clients/Amazon-Web-Services/Online-Proctored.aspx) del examen en línea . | 
 | **Experiencia recomendada:** | 1-2 años de experiencia en el desarrollo, la arquitectura o la ejecución de cargas de trabajo de aprendizaje profundo y aprendizaje automático en la nube de AWS. | 
-| **Examen de práctica oficial:** | examen de práctica: 40 USD | 
+| **Examen de práctica oficial:** | Examplos de [Preguntas de muestra](https://d1.awsstatic.com/training-and-certification/docs-ml/AWS-Certified-Machine-Learning-Specialty_Sample-Questions.pdf),examen de práctica: 40 USD, se da el examen de practica en [Pearson VUE](https://wsr.pearsonvue.com/testtaker/find/testcenter/AWS) | 
 </div>
