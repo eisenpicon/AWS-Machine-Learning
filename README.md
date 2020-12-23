@@ -126,3 +126,7 @@ Los cursos y capacitaciones de manera e-learning del contenido de **AWS Certifie
 | aws training | [The Elements of Data Science](https://www.aws.training/Details/eLearning?id=26598) | Curso | 8 horas |
 | aws training | [Deep Learning on AWS](https://www.aws.training/SessionSearch?pageNumber=1&courseId=13854) | Curso | 24 horas |
 | aws training | [Machine Learning](https://aws.amazon.com/training/learn-about/machine-learning/) | Curso | - |
+
+### Registro examen de certificación
+
+Luego de realizar todos los pasos anteriores y te sientas listo es hora de [regístrarte para el examen de certificación](https://www.aws.training/certification?src=exam-prep). El enlace te va a direccionar para que ingreses con tu cuenta de aws training. 
