@@ -76,7 +76,7 @@ Lista de los libros mas importates con sus respectivos autores y fechas de publi
 
 Amplíe su conocimientos técnicos del aprendizaje **AWS Certified Machine Learning – Specialty** con informes técnicos escritos por el equipo de AWS, analistas independientes y socios de AWS. .
 
-| ***Fecha de Publicación*** | ***Título / Enlace*** | 
+| ***Item*** | ***Título / Enlace*** | 
 | :---:         |     :---     | 
 |1|[Power Machine Learning at Scale](https://d1.awsstatic.com/whitepapers/aws-power-ml-at-scale.pdf) |
 |2|[ Managing Machine Learning Projects](https://d1.awsstatic.com/whitepapers/aws-managing-ml-projects.pdf) |
@@ -129,3 +129,17 @@ Los cursos y capacitaciones de manera e-learning del contenido de **AWS Certifie
 ### Registro examen de certificación
 
 Luego de realizar todos los pasos anteriores y te sientas listo es hora de [regístrarte para el examen de certificación](https://www.aws.training/certification?src=exam-prep). El enlace te va a direccionar para que ingreses con tu cuenta de aws training. 
+
+### Beneficios
+
+Si tienes una o más certificaciones de AWS activas, encontrarás los beneficios de las certificaciones obtenidas. Tenga en cuenta que para canjear algunos beneficios se requiere acceso a sitios de terceros.
+
+Todos los beneficios no se pueden transferir y están destinados a ser utilizados únicamente por la persona que obtuvo el beneficio y por la cuenta de AWS Certification a la que se asignó originalmente el beneficio. **Si AWS, a su entera discreción, determina que usó indebidamente o transfirió un beneficio, AWS puede invalidar el resultado del examen relacionado con el uso indebido o la transferencia y el beneficio no se restablecerá..** 
+
+| ***Item*** | ***Descripcion*** | 
+| :---:         |     :---     | 
+|1| Acceso a la tienda de especialidad certificada por AWS  |
+|2| Voucher  de examen de práctica gratuita de AWS|
+|3| [AWS Certification SME Program](https://www.certmetrics.com/amazon/candidate/custom_list.aspx)|
+|4| 50% de descuento en su próximo examen |
+|5| [Comunidad de LinkedIn global certificada por AWS[(https://www.linkedin.com/groups/6814264/)] |
