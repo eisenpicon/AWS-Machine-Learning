@@ -3,6 +3,7 @@
 # AWS Machine Learning
 
 </div>
+
 Una lista seleccionada de recursos para aprender sobre la certificacion de [**AWS Certified Machine Learning – Specialty**]( https://aws.amazon.com/certification/certified-machine-learning-specialty/) y cómo prepararse para ella. Contiene guías, publicaciones de blog, cuestionarios de autoevaluación, tutoriales y más.
 
 <div align="center"> 
