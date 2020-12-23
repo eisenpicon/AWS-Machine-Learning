@@ -85,16 +85,22 @@ Amplíe su conocimientos técnicos del aprendizaje **AWS Certified Machine Learn
 |[ Augmented AI: The Power of Human and Machine](https://d1.awsstatic.com/whitepapers/augmented-ai-the-power-of-human-and-machine.pdf) | 
 |[ Machine Learning Lens - AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/machine-learning-lens/welcome.html) |
 |[Amazon CodeGuru](https://aws.amazon.com/codeguru/faqs/) |
-|[]() |
-|[]() |
-|[]() |
-|[]() |
-|[]() |
-|[]() |
-|[]() |
-|[]() |
-|[]() |
-|[]() |
+|[Amazon Comprehend](https://aws.amazon.com/comprehend/faqs/) |
+|[Amazon Comprehend Medical](https://aws.amazon.com/comprehend/faqs/#Amazon_Comprehend_Medical) |
+|[Amazon Forecast](https://aws.amazon.com/forecast/faqs/) |
+|[Amazon Fraud Detector ](https://aws.amazon.com/fraud-detector/faqs/) |
+|[Amazon Kendra](https://aws.amazon.com/kendra/faqs/) |
+|[Amazon Lex](https://aws.amazon.com/lex/faqs/) |
+|[Amazon Personalize](https://aws.amazon.com/personalize/faqs/) |
+|[Amazon Rekognition ](https://aws.amazon.com/rekognition/faqs/) |
+|[Amazon Textract](https://aws.amazon.com/textract/faqs/) |
+|[Amazon Transcribe](https://aws.amazon.com/transcribe/faqs/) |
+|[Amazon Translate ](https://aws.amazon.com/translate/faqs/) |
+|[Amazon SageMaker ](https://aws.amazon.com/sagemaker/faqs/) |
+|[Amazon SageMaker Ground Truth](https://aws.amazon.com/sagemaker/groundtruth/faqs/) |
+|[Amazon Augmented AI](https://aws.amazon.com/augmented-ai/faqs/) |
+|[AWS Deep Learning Containers](https://aws.amazon.com/machine-learning/containers/faqs/) |
+
 
 ### Videos Sesiones
 
