@@ -58,6 +58,6 @@ Lista de los libros mas importates con sus respectivos autores y fechas de publi
 
 | ***Fecha de Publicación*** | ***Título / Enlace*** | ***Autor*** |
 | :---:         |     :---     |       :--- |
-|2020/03 | [Amazon SageMaker Developer Guide](https://docs.aws.amazon.com/sagemaker/latest/dg/sagemaker-dg.pdf) | [Copyright © 2020 Amazon Web Services, Inc.](https://docs.aws.amazon.com/sagemaker/index.html) |
+|2020 | [Amazon SageMaker Developer Guide](https://docs.aws.amazon.com/sagemaker/latest/dg/sagemaker-dg.pdf) | [Copyright © 2020 Amazon Web Services, Inc.](https://docs.aws.amazon.com/sagemaker/index.html) |
 |2018/04 | [Google Cloud Platform Cookbook](https://www.google.com/search?q=Google+Cloud+Platform+Cookbook+by+Legorie+Rajan+PS) |[Legorie Rajan PS](https://www.google.com/search?sa=X&biw=1536&bih=731&sxsrf=ALeKk00DU0aXfKr-3JXeQvwSb_8mfM6eWg:1605548936281&q=Legorie+Rajan&stick=H4sIAAAAAAAAAOPgE-LVT9c3NEzPMEuqMC8xUIJys5OyTYrLi7RkspOt9JPy87P1y4syS0pS8-LL84uyrRJLSzLyixax8vqkpucXZaYqBCVmJebtYGUEAC-gW55RAAAA&ved=2ahUKEwihspDwz4ftAhX9JrkGHY0-D3oQmxMoATAYegQIFBAD&cshid=1605549059640179)  |
 |2018/08 | [Google Cloud Platform in Action](https://www.google.com/search?q=Google+Cloud+Platform+in+Action+JJ+Geewax) |[JJ Geewax](https://www.google.com/search?sa=X&biw=1536&bih=731&sxsrf=ALeKk016K9ih0qCzNLiVMhdAjq4uphBinA:1605549138155&q=JJ+Geewax&stick=H4sIAAAAAAAAAOPgE-LVT9c3NEw2tcwuNC5IU4Jw0wyNsoqLSjK0ZLKTrfST8vOz9cuLMktKUvPiy_OLsq0SS0sy8osWsXJ6eSm4p6aWJ1bsYGUEAPptTitNAAAA&ved=2ahUKEwjQ67HQ0IftAhVsL7kGHb2SDfQQmxMoATAZegQIERAD)  |
