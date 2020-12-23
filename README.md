@@ -79,11 +79,22 @@ Amplíe su conocimientos técnicos del aprendizaje **AWS Certified Machine Learn
 
 | ***Título / Enlace*** |
 | :---:         |
+|[Power Machine Learning at Scale](https://d1.awsstatic.com/whitepapers/aws-power-ml-at-scale.pdf) |
+|[ Managing Machine Learning Projects](https://d1.awsstatic.com/whitepapers/aws-managing-ml-projects.pdf) |
+|[Machine Learning Foundations: Evolution of ML and AI](https://d1.awsstatic.com/whitepapers/machine-learning-foundations.pdf) |
+|[ Augmented AI: The Power of Human and Machine](https://d1.awsstatic.com/whitepapers/augmented-ai-the-power-of-human-and-machine.pdf) | 
+|[ Machine Learning Lens - AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/machine-learning-lens/welcome.html) |
+|[Amazon CodeGuru](https://aws.amazon.com/codeguru/faqs/) |
 |[]() |
 |[]() |
-|[]() | 
-|[]() | 
-
+|[]() |
+|[]() |
+|[]() |
+|[]() |
+|[]() |
+|[]() |
+|[]() |
+|[]() |
 
 ### Videos Sesiones
 
