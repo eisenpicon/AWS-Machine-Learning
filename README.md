@@ -25,11 +25,11 @@ Contiene la descripcion general y resumida del examen de Certififacion **Associa
 
 |***CONTENIDO*** | ***DESCRIPCION***|
 | :---:         |     :---      |
-| **Enlace Oficial:** | https://cloud.google.com/certification/cloud-engineer | 
+| **Enlace Oficial:** | https://aws.amazon.com/certification/certified-machine-learning-specialty/ | 
 | **Experiencia:** | Intermedio | 
-| **Duracion:** | 2 horas | 
-| **Costo de inscripción:** | 125 USD (adicional los impuestos cuando corresponda). Hay un descuento para aquellos países con menor paridad de poder adquisitivo. | 
+| **Duracion:** | 3 horas | 
+| **Costo de inscripción:** | 300 USD (adicional los impuestos cuando corresponda). Hay un descuento del 50% si si apruebas el examen para futuros examenes. | 
 | **Formato del examen:** | Opción múltiple y selección múltiple, tomada en persona en un centro de pruebas [ centro de evaluación cercana](https://www.kryteriononline.com/Locate-Test-Center), o en línea supervisado desde una ubicación remota. Consulta los  [requisitos](https://www.webassessor.com/wa.do?page=certInfo&branding=GOOGLECLOUD&tabs=13) del examen en línea . | 
-| **Experiencia recomendada:** | 6 meses + experiencia práctica con Google Cloud Platform. | 
-| **Examen de práctica oficial:** | https://cloud.google.com/certification/practice-exam/cloud-engineer | 
+| **Experiencia recomendada:** | 1-2 años de experiencia en el desarrollo, la arquitectura o la ejecución de cargas de trabajo de aprendizaje profundo y aprendizaje automático en la nube de AWS. | 
+| **Examen de práctica oficial:** | examen de práctica: 40 USD | 
 </div>
