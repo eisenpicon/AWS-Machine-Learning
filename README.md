@@ -77,5 +77,11 @@ Videos publicados donde se describe y dan un resumen del examen **AWS Certified 
 
 | ***Fecha de Publicación*** | ***Título / Enlace*** | ***Editor*** | ***Autor*** |
 | :---:         |     :---     |     :---       |          :--- |
-|2020/10 | [Preparing for Google Cloud ACE Exam](https://youtu.be/RbIbS0YMFs4) |  [Google Cloud](https://www.youtube.com/channel/UCTMRxtyHoE3LPcrl-kT4AQQ)| Parvez Mulla |
-|2020/02 | [The Certified Q&A - ACE Playlist](https://www.youtube.com/watch?v=MESzvFfGhN8&list=PLQMsfKRZZviRwqJwNmh1eAWnRMvlrk40x) | [AwesomeGCP](https://www.youtube.com/channel/UCIGDDqu5DzlaaC4XzXj_4-A)| Sathish VJ |
+|2020/10 | []() |  []()| []() |
+|2020/10 | []() |  []()| []() |
+|2020/10 | []() |  []()| []() |
+|2020/10 | []() |  []()| []() |
+|2020/10 | []() |  []()| []() |
+|2020/10 | []() |  []()| []() |
+|2020/10 | []() |  []()| []() |
+|2020/10 | []() |  []()| []() |
