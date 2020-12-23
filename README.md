@@ -44,16 +44,10 @@ Resumen de los blogs de diferentes publicaciones sobre el examen **AWS Certified
 
 | ***Fecha de Publicación*** | ***Título / Enlace*** | ***Autor*** |
 | :---:         |     :---      |          :--- |
-| 2020/09 | [How I prepared for Google Associate Cloud Engineer (ACE) Exam](https://rakeshvardan.hashnode.dev/how-i-prepared-for-google-cloud-certified-associate-cloud-engineer-exam) | Rakesh Vardan |
-| 2020/07 | [From ALC to Google ACE](https://medium.com/@MercyMarkus/from-alc-to-google-certified-associate-cloud-engineer-b7e5707f9bf0) | Mercy Markus |
-| 2020/03 | [How I Passed the Google ACE](https://medium.com/@charles_j/how-i-passed-the-google-cloud-associate-engineer-certification-63a0fd932057) | Charles J |
-| 2019/12 | [How to plan and clear Google Cloud ACE Certificate](http://www.legendshub.com/blog/2019/12/24/how-to-plan-and-clear-google-cloud-associate-certificate-legendshub-blog/) | amrit_3327 |
-| 2019/11 | [How to Ace the Certification](https://telegraphhillsoftware.com/google-cloud-certification-ace/) | Blake Rogers |
-| 2019/05 | [Notes from my ACE — Section 2](https://medium.com/@fahed.dorgaa/notes-from-my-google-cloud-associate-cloud-engineer-section-2-5469797b1079) | Fahed Dorgaa |
-| 2019/04 | [Notes from my ACE — Section 1](https://medium.com/@fahed.dorgaa/i-have-passed-the-associate-cloud-engineer-exam-373076d07288) | Fahed Dorgaa |
-| 2019/03 | [Google Cloud Certification : ACE](https://medium.com/devopslinks/google-cloud-certification-associate-cloud-engineer-dc25765a23e2) | Raj |
-| 2019/03 | [Google ACE Certification Exam: Our Tips for Success](https://www.mobilise.cloud/blog/google-associate-cloud-engineer-exam) | mobilise.cloud |
-| 2018/12 | [How I Cleared 3 Google Cloud Certifications in 3 Weeks](https://medium.com/@yesdeepakverma/how-i-cleared-all-3-google-cloud-certifications-in-3-weeks-f5591aa22572) | Deepak Verma | 
-| 2018/11 | [Writing and Passing the Google Cloud Associate Engineer Certification](https://medium.com/@sathishvj/writing-and-passing-the-google-cloud-associate-engineer-certification-a60c2f6d99c2) | Sathish VJ |
-| 2018/08 | [ACE Certification Exam Overview- Things to do](https://medium.com/@achilleslinux/associate-cloud-engineer-certification-exam-overview-things-to-do-466c7b9a2885) | Avinash Kumar |
-| 2018/05 | [ACE — Study Guide](https://medium.com/@joaovitor/associate-cloud-engineer-study-guide-cf7e74da1bb6) | João Vitor Guimarães |
+| 2020/09 | [How I prepared for Google Associate Cloud Engineer (ACE) Exam](https://towardsdatascience.com/how-i-prepared-for-the-aws-machine-learning-speciality-certification-10834924d192) | [Raghav Dave](https://medium.com/@dave.raghav) |
+| 2020/07 | [From ALC to Google ACE](https://medium.com/towards-artificial-intelligence/how-i-got-the-aws-machine-learning-specialty-certification-a1142f1376cd) | [Mayank Vadsola](https://medium.com/@mayankvadsola1996) |
+| 2020/07 | [How I Passed the Google ACE](https://medium.com/@adam.dejans/my-path-to-passing-the-aws-machine-learning-certification-e8fc45ad7762) | [Adam DeJans](https://medium.com/@adam.dejans) |
+| 2020/06 | [How to plan and clear Google Cloud ACE Certificate](https://medium.com/@jitendra.bigtani/boost-your-career-with-aws-machine-learning-specialty-certification-a5d97fb1024f) | [Jitendra Bigtani](https://medium.com/@jitendra.bigtani) |
+| 2020/04 | [How to Ace the Certification](https://medium.com/xplore-ai/aws-machine-learning-specialty-certification-made-easy-fe72a7a3095a) | [Daniel S. Flamarich](https://medium.com/@danielsflamarich) |
+| 2020/04 | [Notes from my ACE — Section 2](https://towardsdatascience.com/aws-machine-learning-speciality-certification-in-a-month-1a5987599927) | [Dipika Baad](https://medium.com/@dipikabaad) |
+| 2019/09 | [Notes from my ACE — Section 1](https://medium.com/slalom-data-analytics/passing-the-aws-machine-learning-specialty-certification-35c05b0907f8) | [Jack Sandom](https://medium.com/@jack.sandom) |
