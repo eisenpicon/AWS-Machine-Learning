@@ -21,6 +21,7 @@ Tenemos una lista de 6 topicos importantes para el estudio del examen **AWS Cert
 - [Videos / Sesiones](#Videos-Sesiones)
 - [Capacitaciones en línea](#Capacitaciones-en-línea)
 - [Registro examen de certificación](#Registro-examen-de-certificación)
+- [Beneficios](#Beneficios)
 
 
 ## Acerca el Examen 
