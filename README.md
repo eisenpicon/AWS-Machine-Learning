@@ -77,8 +77,8 @@ Lista de los libros mas importates con sus respectivos autores y fechas de publi
 
 Amplíe su conocimientos técnicos del aprendizaje **AWS Certified Machine Learning – Specialty** con informes técnicos escritos por el equipo de AWS, analistas independientes y socios de AWS. .
 
-| ***Fecha de Publicación*** | ***Título / Enlace*** |
-| :---:         | :---:         |
+| ***Fecha de Publicación*** | ***Título / Enlace*** | 
+| :---:         |     :---     | 
 | 2 |[Power Machine Learning at Scale](https://d1.awsstatic.com/whitepapers/aws-power-ml-at-scale.pdf) |
 | 3 |[ Managing Machine Learning Projects](https://d1.awsstatic.com/whitepapers/aws-managing-ml-projects.pdf) |
 |4|[Machine Learning Foundations: Evolution of ML and AI](https://d1.awsstatic.com/whitepapers/machine-learning-foundations.pdf) |
