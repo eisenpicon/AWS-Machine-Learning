@@ -45,7 +45,7 @@ Resumen de los blogs de diferentes publicaciones sobre el examen **AWS Certified
 | ***Fecha de Publicación*** | ***Título / Enlace*** | ***Autor*** |
 | :---:         |     :---      |          :--- |
 | 2020/09 | [How I prepared for the AWS Certified Machine Learning Specialty](https://towardsdatascience.com/how-i-prepared-for-the-aws-machine-learning-speciality-certification-10834924d192) | [Raghav Dave](https://medium.com/@dave.raghav) |
-| 2020/07 | [How I prepared for the AWS Certified Machine Learning Specialty](https://medium.com/towards-artificial-intelligence/how-i-got-the-aws-machine-learning-specialty-certification-a1142f1376cd) | [Mayank Vadsola](https://medium.com/@mayankvadsola1996) |
+| 2020/07 | [How I got the AWS Machine Learning Specialty Certification](https://medium.com/towards-artificial-intelligence/how-i-got-the-aws-machine-learning-specialty-certification-a1142f1376cd) | [Mayank Vadsola](https://medium.com/@mayankvadsola1996) |
 | 2020/07 | [My Path to Passing the AWS Machine Learning Certification](https://medium.com/@adam.dejans/my-path-to-passing-the-aws-machine-learning-certification-e8fc45ad7762) | [Adam DeJans](https://medium.com/@adam.dejans) |
 | 2020/06 | [My Path to Passing the AWS Machine Learning Certification](https://medium.com/@jitendra.bigtani/boost-your-career-with-aws-machine-learning-specialty-certification-a5d97fb1024f) | [Jitendra Bigtani](https://medium.com/@jitendra.bigtani) |
 | 2020/04 | [5 steps to AWS Machine Learning Specialty Certification, Made Easy](https://medium.com/xplore-ai/aws-machine-learning-specialty-certification-made-easy-fe72a7a3095a) | [Daniel S. Flamarich](https://medium.com/@danielsflamarich) |
