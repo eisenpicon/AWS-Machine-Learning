@@ -73,7 +73,7 @@ Lista de los libros mas importates con sus respectivos autores y fechas de publi
 |2019 | [AWS Industrial](https://d1.awsstatic.com/architecture-diagrams/ArchitectureDiagrams/iot-industrial-anomaly-detection-ra.pdf) |[Copyright © 2019 Amazon Web Services, Inc.](https://aws.amazon.com)  |
 ### Videos Sesiones
 
-Videos publicados donde se describe y dan un resumen del examen **Associate Cloud Engineer (ACE)**.
+Videos publicados donde se describe y dan un resumen del examen **AWS Certified Machine Learning – Specialty**.
 
 | ***Fecha de Publicación*** | ***Título / Enlace*** | ***Editor*** | ***Autor*** |
 | :---:         |     :---     |     :---       |          :--- |
