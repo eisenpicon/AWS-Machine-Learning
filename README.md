@@ -62,4 +62,11 @@ Lista de los libros mas importates con sus respectivos autores y fechas de publi
 |2020 | [AWS Deep Learning Containers Developer Guide](https://docs.aws.amazon.com/deep-learning-containers/latest/devguide/dlc-guide.pdf.pdf) |[Copyright © 2020 Amazon Web Services, Inc.](https://aws.amazon.com)  |
 |2020/04 | [Machine Learning Lens AWS Well-Architected Framework](https://d1.awsstatic.com/whitepapers/architecture/wellarchitected-Machine-Learning-Lens.pdf?did=wp_card&trk=wp_card) |[Copyright © 2020 Amazon Web Services, Inc.](https://aws.amazon.com)  |
 |2019/08 | [Deep Learning on AWS Guide](https://d1.awsstatic.com/whitepapers/Deep_Learning_on_AWS.pdf) |[Copyright © 2019 Amazon Web Services, Inc.](https://aws.amazon.com)  |
-
+|2019/02 | [Machine Learning Foundations]() |[Copyright © 2019 Amazon Web Services, Inc.](https://aws.amazon.com)  |
+|- | [Machine Learning with Amazon Web Services]() |[Copyright © 2019 Amazon Web Services, Inc.](https://aws.amazon.com)  |
+|2019 | [AWS Industrial Predictive Maintenance]() |[Copyright © 2019 Amazon Web Services, Inc.](https://aws.amazon.com)  |
+|2019 | [Managing Machine Learning Projects]() |[Copyright © 2019 Amazon Web Services, Inc.](https://aws.amazon.com)  |
+|2019 | [Migration Architecture for Revenue Management ]() |[Copyright © 2019 Amazon Web Services, Inc.](https://aws.amazon.com)  |
+|2019 | [Customer Engagement using AI/ML]() |[Copyright © 2019 Amazon Web Services, Inc.](https://aws.amazon.com)  |
+|2019 | [Personalization using AI/ML ]() |[Copyright © 2019 Amazon Web Services, Inc.](https://aws.amazon.com)  |
+|2019 | [AWS Industrial]() |[Copyright © 2019 Amazon Web Services, Inc.](https://aws.amazon.com)  |
