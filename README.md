@@ -54,7 +54,7 @@ Resumen de los blogs de diferentes publicaciones sobre el examen **AWS Certified
 
 ### Libros
 
-Lista de los libros mas importates con sus respectivos autores y fechas de publicaciones para complementar el aprendizaje de Google Cloud Platform.
+Lista de los libros mas importates con sus respectivos autores y fechas de publicaciones para complementar el aprendizaje de  **AWS Certified Machine Learning – Specialty**.
 
 | ***Fecha de Publicación*** | ***Título / Enlace*** | ***Autor*** |
 | :---:         |     :---     |       :--- |
