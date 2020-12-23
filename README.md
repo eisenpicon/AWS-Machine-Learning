@@ -77,7 +77,7 @@ Videos publicados donde se describe y dan un resumen del examen **AWS Certified 
 
 | ***Fecha de Publicación*** | ***Título / Enlace*** | ***Editor*** | ***Autor*** |
 | :---:         |     :---     |     :---       |          :--- |
-|2020/10 | []() |  []()| []() |
+|2020/05 | [I took the AWS Machine Learning Specialty Exam. And had a bit of a rant.](https://www.youtube.com/watch?v=rdkiQfMHr0U) | []() | [MarkoCloud](https://www.youtube.com/channel/UCUMqUcn5ii4OTWhXSOMOpsQ)| 
 |2020/10 | []() |  []()| []() |
 |2020/10 | []() |  []()| []() |
 |2020/10 | []() |  []()| []() |
