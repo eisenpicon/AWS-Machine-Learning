@@ -51,3 +51,13 @@ Resumen de los blogs de diferentes publicaciones sobre el examen **AWS Certified
 | 2020/04 | [5 steps to AWS Machine Learning Specialty Certification, Made Easy](https://medium.com/xplore-ai/aws-machine-learning-specialty-certification-made-easy-fe72a7a3095a) | [Daniel S. Flamarich](https://medium.com/@danielsflamarich) |
 | 2020/04 | [AWS Machine Learning Speciality Certification in a month](https://towardsdatascience.com/aws-machine-learning-speciality-certification-in-a-month-1a5987599927) | [Dipika Baad](https://medium.com/@dipikabaad) |
 | 2019/09 | [Passing the AWS Machine Learning Specialty Certification](https://medium.com/slalom-data-analytics/passing-the-aws-machine-learning-specialty-certification-35c05b0907f8) | [Jack Sandom](https://medium.com/@jack.sandom) |
+
+### Libros
+
+Lista de los libros mas importates con sus respectivos autores y fechas de publicaciones para complementar el aprendizaje de Google Cloud Platform.
+
+| ***Fecha de Publicación*** | ***Título / Enlace*** | ***Autor*** |
+| :---:         |     :---     |       :--- |
+|2019/03 | [Google Cloud Certified Associate Cloud Engineer Study Guide](https://www.google.com/search?q=official+google+cloud+certified+associate+cloud+engineer+study+guide) | [Dan Sullivan](https://www.google.com/search?sa=X&biw=1536&bih=731&sxsrf=ALeKk02b_f2l0dihSFstzyHnaJpovXxgzA:1605549031345&q=Dan+Sullivan&stick=H4sIAAAAAAAAAOPgE-LVT9c3NMwwqMwpyqsoUOIBc8uys4tNjMq0ZLKTrfST8vOz9cuLMktKUvPiy_OLsq0SS0sy8osWsfK4JOYpBJfm5GSWJebtYGUEAGivc-JPAAAA&ved=2ahUKEwiqzrqd0IftAhVrIbkGHSHgAbgQmxMoATAYegQIExAD) |
+|2018/04 | [Google Cloud Platform Cookbook](https://www.google.com/search?q=Google+Cloud+Platform+Cookbook+by+Legorie+Rajan+PS) |[Legorie Rajan PS](https://www.google.com/search?sa=X&biw=1536&bih=731&sxsrf=ALeKk00DU0aXfKr-3JXeQvwSb_8mfM6eWg:1605548936281&q=Legorie+Rajan&stick=H4sIAAAAAAAAAOPgE-LVT9c3NEzPMEuqMC8xUIJys5OyTYrLi7RkspOt9JPy87P1y4syS0pS8-LL84uyrRJLSzLyixax8vqkpucXZaYqBCVmJebtYGUEAC-gW55RAAAA&ved=2ahUKEwihspDwz4ftAhX9JrkGHY0-D3oQmxMoATAYegQIFBAD&cshid=1605549059640179)  |
+|2018/08 | [Google Cloud Platform in Action](https://www.google.com/search?q=Google+Cloud+Platform+in+Action+JJ+Geewax) |[JJ Geewax](https://www.google.com/search?sa=X&biw=1536&bih=731&sxsrf=ALeKk016K9ih0qCzNLiVMhdAjq4uphBinA:1605549138155&q=JJ+Geewax&stick=H4sIAAAAAAAAAOPgE-LVT9c3NEw2tcwuNC5IU4Jw0wyNsoqLSjK0ZLKTrfST8vOz9cuLMktKUvPiy_OLsq0SS0sy8osWsXJ6eSm4p6aWJ1bsYGUEAPptTitNAAAA&ved=2ahUKEwjQ67HQ0IftAhVsL7kGHb2SDfQQmxMoATAZegQIERAD)  |
